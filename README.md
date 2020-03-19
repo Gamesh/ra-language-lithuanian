@@ -1,5 +1,9 @@
 # Lithuanian Messages for React-Admin
 
+[![npm ra-language-lithuanian](https://img.shields.io/npm/v/ra-language-lithuanian.svg)](https://npmjs.org/package/ra-language-lithuanian)
+[![npm downloads](https://img.shields.io/npm/dm/ra-language-lithuanian.svg)](https://www.npmjs.com/package/ra-language-lithuanian)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/ra-language-lithuanian.svg)](https://bundlephobia.com/result?p=ra-language-lithuanian)
+
 Lithuanian messages for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GraphQL services.
 
 ## Installation
